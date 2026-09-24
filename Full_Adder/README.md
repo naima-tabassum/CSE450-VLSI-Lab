@@ -21,5 +21,6 @@ Carry = (a AND b) OR (b AND cin) OR (cin AND a)
 
 - `full_adder.v` — Verilog HDL implementation of the Full Adder
 - `full_adder_output.v` — Verilog testbench used for simulation
-- `rtl_schematic.png` — RTL schematic generated using Xilinx ISE
+- `rtl_schematic_top_level.png` — Top-level RTL schematic of the Full Adder
+- `rtl_schematic_expanded.png` — Expanded RTL schematic showing the internal logic
 - `simulation_waveform.png` — Simulation waveform generated using ISim
